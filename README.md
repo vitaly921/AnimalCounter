@@ -1,4 +1,4 @@
 # AnimalCounter
 В репозиторий добавлены основные файлы, с которыми пришлось работать. После запуска программы пользователь нажимает одну из трёх кнопок на экране. При нажатии на верхнюю кнопку выводятся два текста приветствия. При нажатии на любую из двух оставшихся кнопок происходит подсчёт выбранных животных независимо друг от друга. Обработка нажатия этих кнопок работает по разным правилам. Именно для их изучения и разрабатывалась программа. 
 
-![alt text](https://yadi.sk/i/ITDMl6mC3OK7Bg)
+![alt text](https://downloader.disk.yandex.ru/preview/d5980fc7775de09ce9642d9df7fd8c8da54e3862bd0390e25dde4d9776be1a93/5ce191cc/GZiWphoO7qL5sNy_Jj_fhZofitDxriMdG9T5f4510yCaeI6v6v60LL1V55Y-lcQvuUHQCG5ST3no_ZpvmFhZWA%3D%3D?uid=0&filename=Screenshot_2019-05-19-17-24-44-850_com.example.admin.ravencounter.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=1872x944)
